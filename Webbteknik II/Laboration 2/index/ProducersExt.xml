@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Producers xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet">
+  <producer>
+    <id>8</id>
+    <name>Emåmejeriet</name>
+    <address> Grenvägen 1-3</address>
+    <postalcode>577 39</postalcode>
+    <city>Hultsfred</city>
+    <site>http://www.emamejeriet.se</site>
+    <img>images/ema.png</img>
+    <latitude>57.4999</latitude>
+    <longitude>15.8280</longitude>
+  </producer>
+  <producer>
+    <id>57</id>
+    <name>Ölands örtagård</name>
+    <address> Stora Frö 2393 </address>
+    <postalcode>380 62</postalcode>
+    <city>Mörbylånga</city>
+    <site>http://www.olandsortagard.se</site>
+    <img>images/7.jpeg</img>
+    <latitude>56.5697</latitude>
+    <longitude>16.4203</longitude>
+  </producer>
+  <producer>
+    <id>45</id>
+    <name>Dövestads utegrisar &amp; Gårdsbutik</name>
+    <address> Frälsegård </address>
+    <postalcode>572 91</postalcode>
+    <city>Oskarshamn</city>
+    <site>Finns ej</site>
+    <img>images/Dovestad_Gardsbutik.jpeg</img>
+    <latitude/>
+    <longitude/>
+  </producer>
+  <producer>
+    <id>33</id>
+    <name>Yngdéns Knäcke</name>
+    <address> Björkvägen 12</address>
+    <postalcode>387 35</postalcode>
+    <city>Borgholm</city>
+    <site>http:///www.yngdensknacke.se/</site>
+    <img>images/yngden_Logo.bmp</img>
+    <latitude>56.8778</latitude>
+    <longitude>16.6736</longitude>
+  </producer>
+  <producer>
+    <id>16</id>
+    <name>Stenvide</name>
+    <address> Böke 113</address>
+    <postalcode>385 97</postalcode>
+    <city>Söderåkra</city>
+    <site>http://www.stenvide.se</site>
+    <img>images/16109.png</img>
+    <latitude>57.056</latitude>
+    <longitude>14.3438</longitude>
+  </producer>
+  <producer>
+    <id>41</id>
+    <name>Hagelstads Gårdsmejeri</name>
+    <address> Hagelstad Södra bygatan 17</address>
+    <postalcode>387 70</postalcode>
+    <city>Löttorp</city>
+    <site>Inte tillgänglig 				</site>
+    <img>images/IMG_9157.jpg</img>
+    <latitude>57.1256</latitude>
+    <longitude>16.9320</longitude>
+  </producer>
+  <producer>
+    <id>38</id>
+    <name>Solmarka Bageri</name>
+    <address> Arby 207 </address>
+    <postalcode>388 94</postalcode>
+    <city>Vassmolösa</city>
+    <site>http://www.solmarkabageri.com</site>
+    <img>images/91721_1_1.jpg</img>
+    <latitude>56.5659</latitude>
+    <longitude>16.1380</longitude>
+  </producer>
+  <producer>
+    <id>40</id>
+    <name>Nabbens Rökeri</name>
+    <address> Fiskarv. 2</address>
+    <postalcode>38052</postalcode>
+    <city>TIMMERNABBEN</city>
+    <site>http://www.nabbensrokeri.se/ 				</site>
+    <img>images/arrangemang_widescreen.jpg</img>
+    <latitude>56.9652</latitude>
+    <longitude>16.4433</longitude>
+  </producer>
+  <producer>
+    <id>56</id>
+    <name>Bredaviks Örtagård</name>
+    <address> Gamla vägen 1</address>
+    <postalcode>37043</postalcode>
+    <city>Sturkö</city>
+    <site>http://www.bredaviksortagard.se 				</site>
+    <img>images/arrangemang_widescreen.jpg</img>
+    <latitude>56.1128</latitude>
+    <longitude>15.6949</longitude>
+  </producer>
+  <producer>
+    <id>24</id>
+    <name>Johans Kök</name>
+    <address> Verkstadsgatan 41</address>
+    <postalcode>392 39</postalcode>
+    <city>Kalmar</city>
+    <site>http://www.johanskok.se 				</site>
+    <img>images/arrangemang_widescreen.jpg</img>
+    <latitude>56.6651</latitude>
+    <longitude>16.3347</longitude>
+  </producer>
+  <producer>
+    <id>19</id>
+    <name>Moheda Sylt AB</name>
+    <address> Svensgårde</address>
+    <postalcode>42643</postalcode>
+    <city>Moheda</city>
+    <site>http://www.mohedasylt.com 				</site>
+    <img>images/Logga-MSAB.gif</img>
+    <latitude>57.056</latitude>
+    <longitude>14.3438</longitude>
+  </producer>
+  <producer>
+    <id>36</id>
+    <name>Havtornsgården, Strandå ekologiska odlingar</name>
+    <address> Triberga 114</address>
+    <postalcode>38062</postalcode>
+    <city>Mörbylånga</city>
+    <site>http://www.strandaeko.se 				</site>
+    <img>images/vinager.jpg</img>
+    <latitude>56.4693</latitude>
+    <longitude>16.5745</longitude>
+  </producer>
+</Producers>

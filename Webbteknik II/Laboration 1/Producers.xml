@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Producers>
+  <producer>
+    <name>Emåmejeriet</name>
+    <address> Grenvägen 1-3</address>
+    <postalcode> 577 39</postalcode>
+    <city>Hultsfred</city>
+    <id>8</id>
+    <site>http://www.emamejeriet.se 				</site>
+    <img>images/ema.png</img>
+  </producer>
+  <producer>
+    <name>Ölands örtagård</name>
+    <address> Stora Frö 2393 </address>
+    <postalcode> 380 62</postalcode>
+    <city>Mörbylånga</city>
+    <id>57</id>
+    <site>http://www.olandsortagard.se 				</site>
+    <img>images/7.jpeg</img>
+  </producer>
+  <producer>
+    <name>Dövestads utegrisar &amp; Gårdsbutik</name>
+    <address> Frälsegård </address>
+    <postalcode> 572 91</postalcode>
+    <city>Oskarshamn</city>
+    <id>45</id>
+    <site>Finns ej 				</site>
+    <img>images/Dovestad_Gardsbutik.jpeg</img>
+  </producer>
+  <producer>
+    <name>Yngdéns Knäcke</name>
+    <address> Björkvägen 12</address>
+    <postalcode> 387 35</postalcode>
+    <city>Borgholm</city>
+    <id>33</id>
+    <site>http:///www.yngdensknacke.se/ 				</site>
+    <img>images/yngden_Logo.bmp</img>
+  </producer>
+  <producer>
+    <name>Stenvide</name>
+    <address> Böke 113</address>
+    <postalcode> 385 97</postalcode>
+    <city>Söderåkra</city>
+    <id>16</id>
+    <site>http://www.stenvide.se 				</site>
+    <img>images/16109.png</img>
+  </producer>
+  <producer>
+    <name>Hagelstads Gårdsmejeri</name>
+    <address> Hagelstad Södra bygatan 17</address>
+    <postalcode> 387 70</postalcode>
+    <city>Löttorp</city>
+    <id>41</id>
+    <site>Inte tillgänglig 				</site>
+    <img>images/IMG_9157.jpg</img>
+  </producer>
+  <producer>
+    <name>Solmarka Bageri</name>
+    <address> Arby 207 </address>
+    <postalcode> 388 94</postalcode>
+    <city>Vassmolösa</city>
+    <id>38</id>
+    <site>http://www.solmarkabageri.com 				</site>
+    <img>images/91721_1_1.jpg</img>
+  </producer>
+  <producer>
+    <name>Nabbens Rökeri</name>
+    <address> Fiskarv. 2</address>
+    <postalcode> 38052</postalcode>
+    <city>TIMMERNABBEN</city>
+    <id>40</id>
+    <site>http://www.nabbensrokeri.se/ 				</site>
+    <img>images/arrangemang_widescreen.jpg</img>
+  </producer>
+  <producer>
+    <name>Bredaviks Örtagård</name>
+    <address> Gamla vägen 1</address>
+    <postalcode> 37043</postalcode>
+    <city>Sturkö</city>
+    <id>56</id>
+    <site>http://www.bredaviksortagard.se 				</site>
+    <img>images/arrangemang_widescreen.jpg</img>
+  </producer>
+  <producer>
+    <name>Johans Kök</name>
+    <address> Verkstadsgatan 41</address>
+    <postalcode> 392 39</postalcode>
+    <city>Kalmar</city>
+    <id>24</id>
+    <site>http://www.johanskok.se 				</site>
+    <img>images/arrangemang_widescreen.jpg</img>
+  </producer>
+  <producer>
+    <name>Moheda Sylt AB</name>
+    <address> Svensgårde</address>
+    <postalcode> 42643</postalcode>
+    <city>Moheda</city>
+    <id>19</id>
+    <site>http://www.mohedasylt.com 				</site>
+    <img>images/Logga-MSAB.gif</img>
+  </producer>
+  <producer>
+    <name>Havtornsgården, Strandå ekologiska odlingar</name>
+    <address> Triberga 114</address>
+    <postalcode> 38062</postalcode>
+    <city>Mörbylånga</city>
+    <id>36</id>
+    <site>http://www.strandaeko.se 				</site>
+    <img>images/vinager.jpg</img>
+  </producer>
+</Producers>

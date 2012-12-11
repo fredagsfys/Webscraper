@@ -1,0 +1,7 @@
+ RewriteEngine on
+
+ RewriteCond %{HTTP_REFERER} !^$
+
+ RewriteCond %{HTTP_REFERER} !^http://(www\.)?xedge.nu/.*$ [NC]
+
+ RewriteRule \.(gif|jpg|jpeg|bmp|zip|rar|mp3|flv|swf|xml|php|png|css|pdf)$ - [F]
